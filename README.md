@@ -8,3 +8,4 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 npm install -- legacy-peer-deps -D postcss autoprefixer                                                                                                                
 
 npm install --legacy-peer-deps three
+
